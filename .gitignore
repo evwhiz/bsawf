@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
+
+# bsawf course material
+bsawfcoursematerial-191204-142013/
 
 # C extensions
 *.so
